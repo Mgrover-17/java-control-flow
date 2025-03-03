@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class HarshadNumber {
+class HarshadNumberCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
